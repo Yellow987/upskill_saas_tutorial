@@ -107,6 +107,7 @@ GEM
     nio4r (1.2.1)
     nokogiri (1.8.5)
       mini_portile2 (~> 2.3.0)
+    openssl (2.1.2)
     pg (0.18.4)
     puma (3.12.0)
     rack (2.0.6)
@@ -203,6 +204,7 @@ DEPENDENCIES
   jbuilder (= 2.5.0)
   jquery-rails (= 4.1.1)
   listen (= 3.0.5)
+  openssl
   pg (= 0.18.4)
   puma
   rails (= 5.0.0)
